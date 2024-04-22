@@ -1,0 +1,81 @@
+/share/pkg.7/python3/3.8.10/install/lib/python3.8/site-packages/scipy-1.6.2-py3.8-linux-x86_64.egg/scipy/__init__.py:138: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.4)
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion} is required for this version of "
+Validation Loss: 0.2769, Avg PSNR: 53.05, Avg SSIM: 0.9572
+Epoch 1, Train Loss: 0.2737, Validation Loss: 0.2769
+Validation loss decreased (inf --> 0.2769). Saving model...
+Validation Loss: 0.4453, Avg PSNR: 51.12, Avg SSIM: 0.9309
+Epoch 2, Train Loss: 0.1988, Validation Loss: 0.4453
+Validation Loss: 0.9919, Avg PSNR: 47.72, Avg SSIM: 0.8510
+Epoch 3, Train Loss: 0.0990, Validation Loss: 0.9919
+Validation Loss: 1.6798, Avg PSNR: 45.59, Avg SSIM: 0.7748
+Epoch 4, Train Loss: 0.0672, Validation Loss: 1.6798
+Validation Loss: 1.0343, Avg PSNR: 47.79, Avg SSIM: 0.8503
+Epoch 5, Train Loss: 0.0629, Validation Loss: 1.0343
+Validation Loss: 0.8381, Avg PSNR: 48.63, Avg SSIM: 0.8868
+Epoch 6, Train Loss: 0.0623, Validation Loss: 0.8381
+Validation Loss: 6.3391, Avg PSNR: 39.99, Avg SSIM: 0.4757
+Epoch 7, Train Loss: 0.0603, Validation Loss: 6.3391
+Validation Loss: 2.1716, Avg PSNR: 44.56, Avg SSIM: 0.7324
+Epoch 8, Train Loss: 0.0583, Validation Loss: 2.1716
+Validation Loss: 0.8746, Avg PSNR: 48.31, Avg SSIM: 0.8742
+Epoch 9, Train Loss: 0.0574, Validation Loss: 0.8746
+Validation Loss: 0.1813, Avg PSNR: 54.75, Avg SSIM: 0.9717
+Epoch 10, Train Loss: 0.0572, Validation Loss: 0.1813
+Validation loss decreased (0.2769 --> 0.1813). Saving model...
+Validation Loss: 0.1095, Avg PSNR: 56.73, Avg SSIM: 0.9834
+Epoch 11, Train Loss: 0.0566, Validation Loss: 0.1095
+Validation loss decreased (0.1813 --> 0.1095). Saving model...
+Validation Loss: 0.0808, Avg PSNR: 57.98, Avg SSIM: 0.9884
+Epoch 12, Train Loss: 0.0568, Validation Loss: 0.0808
+Validation loss decreased (0.1095 --> 0.0808). Saving model...
+Validation Loss: 0.0658, Avg PSNR: 58.98, Avg SSIM: 0.9914
+Epoch 13, Train Loss: 0.0564, Validation Loss: 0.0658
+Validation loss decreased (0.0808 --> 0.0658). Saving model...
+Validation Loss: 0.0602, Avg PSNR: 59.34, Avg SSIM: 0.9924
+Epoch 14, Train Loss: 0.0562, Validation Loss: 0.0602
+Validation loss decreased (0.0658 --> 0.0602). Saving model...
+Validation Loss: 0.0578, Avg PSNR: 59.36, Avg SSIM: 0.9925
+Epoch 15, Train Loss: 0.0559, Validation Loss: 0.0578
+Validation loss decreased (0.0602 --> 0.0578). Saving model...
+Validation Loss: 0.0568, Avg PSNR: 59.40, Avg SSIM: 0.9926
+Epoch 16, Train Loss: 0.0561, Validation Loss: 0.0568
+Validation loss decreased (0.0578 --> 0.0568). Saving model...
+Validation Loss: 0.0560, Avg PSNR: 59.73, Avg SSIM: 0.9933
+Epoch 17, Train Loss: 0.0560, Validation Loss: 0.0560
+Validation loss decreased (0.0568 --> 0.0560). Saving model...
+Validation Loss: 0.0551, Avg PSNR: 59.98, Avg SSIM: 0.9938
+Epoch 18, Train Loss: 0.0558, Validation Loss: 0.0551
+Validation loss decreased (0.0560 --> 0.0551). Saving model...
+Validation Loss: 0.0544, Avg PSNR: 60.06, Avg SSIM: 0.9940
+Epoch 19, Train Loss: 0.0560, Validation Loss: 0.0544
+Validation loss decreased (0.0551 --> 0.0544). Saving model...
+Validation Loss: 0.0543, Avg PSNR: 59.97, Avg SSIM: 0.9938
+Epoch 20, Train Loss: 0.0557, Validation Loss: 0.0543
+Validation loss decreased (0.0544 --> 0.0543). Saving model...
+Validation Loss: 0.0540, Avg PSNR: 59.92, Avg SSIM: 0.9937
+Epoch 21, Train Loss: 0.0558, Validation Loss: 0.0540
+Validation loss decreased (0.0543 --> 0.0540). Saving model...
+Validation Loss: 0.0537, Avg PSNR: 60.06, Avg SSIM: 0.9940
+Epoch 22, Train Loss: 0.0557, Validation Loss: 0.0537
+Validation loss decreased (0.0540 --> 0.0537). Saving model...
+Validation Loss: 0.0536, Avg PSNR: 60.26, Avg SSIM: 0.9944
+Epoch 23, Train Loss: 0.0556, Validation Loss: 0.0536
+Validation loss decreased (0.0537 --> 0.0536). Saving model...
+Validation Loss: 0.0537, Avg PSNR: 60.26, Avg SSIM: 0.9944
+Epoch 24, Train Loss: 0.0557, Validation Loss: 0.0537
+Validation Loss: 0.0536, Avg PSNR: 60.16, Avg SSIM: 0.9942
+Epoch 25, Train Loss: 0.0556, Validation Loss: 0.0536
+Validation Loss: 0.0535, Avg PSNR: 60.08, Avg SSIM: 0.9940
+Epoch 26, Train Loss: 0.0555, Validation Loss: 0.0535
+Validation loss decreased (0.0536 --> 0.0535). Saving model...
+Validation Loss: 0.0535, Avg PSNR: 60.18, Avg SSIM: 0.9942
+Epoch 27, Train Loss: 0.0555, Validation Loss: 0.0535
+Validation Loss: 0.0534, Avg PSNR: 60.30, Avg SSIM: 0.9944
+Epoch 28, Train Loss: 0.0555, Validation Loss: 0.0534
+Validation loss decreased (0.0535 --> 0.0534). Saving model...
+Validation Loss: 0.0534, Avg PSNR: 60.32, Avg SSIM: 0.9944
+Epoch 29, Train Loss: 0.0555, Validation Loss: 0.0534
+Validation loss decreased (0.0534 --> 0.0534). Saving model...
+Validation Loss: 0.0535, Avg PSNR: 60.21, Avg SSIM: 0.9942
+Epoch 30, Train Loss: 0.0555, Validation Loss: 0.0535
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/scratch/6782971.1.ece/runtime-lchen122'
